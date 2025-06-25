@@ -11,3 +11,29 @@
 它需要练习。光看是没用的，关键是在你自己的工作和学习中，有意识地去用一两个问题。哪怕一开始不熟练，也比完全不用要好。
 它的核心目的，是帮助我们更好地思考，AI只是一个非常好用的辅助工具。所以，最终的落点还是在我们自己身上。
 我把它放在这里，希望能引发一些有价值的讨论。如果它能为你节省一点思考上的力气，或者给你带来一个看问题的新角度，那我的目的就达到了。
+
+AI Dialogue Cookbook
+A collection of personal notes and practical patterns for conducting deep, meaningful dialogues with Large Language Models (LLMs).
+What This Is
+Over the past year, I've spent-a-lot-of time in conversation with LLMs like GPT-4. My goal was simple: to see how far they could push my own thinking, beyond just answering simple questions.
+I found that the quality of the dialogue depended heavily on how I asked the questions. Through trial and error, I've gathered a set of effective methods and questioning patterns. These are the "recipes" that have consistently helped me to:
+Turn vague ideas into clear, structured thoughts.
+Break down complex problems into manageable parts.
+Gain a better understanding of my own thought processes.
+This repository is my personal "cookbook." It's not a grand theory, but a collection of practical notes from my experiments. I'm sharing it in the hope that it might be useful to others who also use thinking as a core part of their work—researchers, developers, writers, and curious minds.
+What's Inside This Cookbook
+This collection is organized into a few key parts:
+Core Thinking Tools: A few fundamental "modules" for structuring thought. For instance, how to approach a fuzzy problem by first applying "Quantification & Stratification," or how to use "Analogies" to find new pathways when logic gets stuck. These are simple but powerful.
+A Structured Questioning Flow: I noticed that productive sessions often follow a similar path. I've broken this down into a general workflow:
+Phase 1: Define the Problem, Build the Frame
+Phase 2: Stress-Test the Frame, Challenge Assumptions
+Phase 3: Dig for the Essence, Ask "Why"
+Phase 4: Project into the Future, Plan the Action
+Each phase comes with concrete question examples.
+A Set of Dialogue Patterns: Many "good questions" share underlying patterns. I've tried to extract these, such as "Perspective Shifting" to uncover blind spots, "Meta-dialogue" to stay on track, and "Expressing Honest Confusion" to get better help from the AI.
+Dialogue Examples: To make the concepts clearer, I've included some anonymized snippets from my actual dialogues. These show how a specific question can shift the conversation toward a deeper level.
+A Note for Readers
+This is a personal collection, not a definitive guide. The methods here are what worked for me. Feel free to treat this as a reference point—use what works for you and adapt it to your own style.
+It requires practice. Just reading this won't be enough. The key is to consciously try applying one or two of these patterns in your own conversations with AI. It might feel awkward at first, but it gets easier.
+The goal is to improve our own thinking. AI is an incredibly powerful tool for thought, but it's still just a tool. The ultimate aim of this cookbook is to help us become better thinkers.
+I'm sharing this to spark discussion. If it saves you some effort or gives you a new angle on a problem, then it has served its purpose.
